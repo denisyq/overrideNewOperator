@@ -1,0 +1,5 @@
+##############
+Aug 30/2014
+##############
+override new operator and find where the memory leak occurs.
+if new operator but forget to delete/delete[], catch it.
